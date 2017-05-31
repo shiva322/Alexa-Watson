@@ -26,7 +26,7 @@ conversation = ConversationV1(
     password = conv_password,
     version='2016-09-20')
 
-logging.debug('Checked Conversation Service is working')
+logging.debug('Checking Conversation Service is working')
 response = conversation.message(workspace_id=workspace_id, message_input={'text': 'Hello'})
 print(json.dumps(response, indent=2))
             
