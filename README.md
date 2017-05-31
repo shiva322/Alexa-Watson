@@ -1,6 +1,6 @@
 # Alexa-Watson
 
-Here Alexa skill is developed with the help of flask-ask along with ngrok(for tunneling https to local http) and Echosim.io (Cloud based client for Alexa Voice Service API) is used as the interface to interact with our alexa skill.
+Here Alexa skill is developed with the help of flask-ask,watson-developer-cloud along with ngrok(for tunneling https to local http) and Echosim.io (Cloud based client for Alexa Voice Service API) is used as the interface to interact with our alexa skill.
 
 Alternate approach is to bring up local java client to act as an interface - https://github.com/alexa/alexa-avs-sample-app (uses java for client and node server to establish identity confifuration with amazon account)
 
@@ -8,7 +8,7 @@ Dependencies -
 
 	flask
 	flask-ask (https://flask-ask.readthedocs.io/en/latest/)
-	watson-developer-cloud	
+	watson-developer-cloud (https://github.com/watson-developer-cloud/python-sdk)	
 	ngrok 
 
 Step1 :
