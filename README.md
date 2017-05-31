@@ -5,10 +5,11 @@ Here Alexa skill is developed with the help of flask-ask along with ngrok(for tu
 Alternate approach is to bring up local java client to act as an interface - https://github.com/alexa/alexa-avs-sample-app (uses java for client and node server to establish identity confifuration with amazon account)
 
 Dependencies -
-flask
-flask-ask
-watson-developer-cloud
-ngrok 
+
+	flask
+	flask-ask (https://flask-ask.readthedocs.io/en/latest/)
+	watson-developer-cloud	
+	ngrok 
 
 Step1 :
  > Create watson's conversion service and workspace in ibm blumix account.
