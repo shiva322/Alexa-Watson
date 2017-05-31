@@ -1,0 +1,1088 @@
+DEBUG:root:Checked Conversation Service is working
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:Checked Conversation Service is working
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 254-824-651
+DEBUG:flask_ask:{
+  "request": {
+    "intent": {
+      "name": "LaunchRequest"
+    }, 
+    "locale": "en-US", 
+    "requestId": "EdwRequestId.04a07d65-9a59-4aed-9e82-6c70b090c571", 
+    "timestamp": "2017-05-31T20:05:39Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "attributes": {}, 
+    "new": true, 
+    "sessionId": "SessionId.c717b1a4-adef-482d-a982-a57d0c3579fb", 
+    "user": {
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{}
+DEBUG:root:New session started
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:05:39] "POST / HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/shiva/flask-alexa/ask_watson.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:Checked Conversation Service is working
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 254-824-651
+DEBUG:root:Checked Conversation Service is working
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:Checked Conversation Service is working
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 254-824-651
+DEBUG:flask_ask:{
+  "request": {
+    "intent": {
+      "name": "LaunchRequest"
+    }, 
+    "locale": "en-US", 
+    "requestId": "EdwRequestId.523a0829-4331-4b1e-abfe-ed9f8ae0bce1", 
+    "timestamp": "2017-05-31T20:08:09Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "attributes": {}, 
+    "new": true, 
+    "sessionId": "SessionId.57695c7c-584f-4847-bc75-a574ed1ddced", 
+    "user": {
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{}
+DEBUG:root:New session started
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:08:10] "POST / HTTP/1.1" 500 -
+DEBUG:flask_ask:{
+  "request": {
+    "intent": {
+      "name": "LaunchRequest"
+    }, 
+    "locale": "en-US", 
+    "requestId": "EdwRequestId.49d7a7b6-5a11-4875-9947-a5115631ce12", 
+    "timestamp": "2017-05-31T20:10:44Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "attributes": {}, 
+    "new": true, 
+    "sessionId": "SessionId.50750ea7-dccb-4a8b-9c50-55265a7fb63a", 
+    "user": {
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{}
+DEBUG:root:New session started
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:10:44] "POST / HTTP/1.1" 500 -
+DEBUG:root:Checked Conversation Service is working
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:Checked Conversation Service is working
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 254-824-651
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "HelloIntent"
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.52d8b800-f76d-4c20-82e5-be268894bfb0", 
+    "timestamp": "2017-05-31T20:16:20Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": true, 
+    "sessionId": "amzn1.echo-api.session.fa72fb11-201b-487e-9f44-0c373d2e15c3", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:root:New session started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "[\"Hello.How was your day ?\"]", 
+      "type": "PlainText"
+    }, 
+    "reprompt": {
+      "outputSpeech": {
+        "text": "Sorry Shiva I didn't understand what you said", 
+        "type": "PlainText"
+      }
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:16:21] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "HelloIntent"
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.f1aeb927-539a-4962-b069-1a41d072878f", 
+    "timestamp": "2017-05-31T20:16:34Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": false, 
+    "sessionId": "amzn1.echo-api.session.fa72fb11-201b-487e-9f44-0c373d2e15c3", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "[\"Hello. How can I help you?\"]", 
+      "type": "PlainText"
+    }, 
+    "reprompt": {
+      "outputSpeech": {
+        "text": "Sorry Shiva I didn't understand what you said", 
+        "type": "PlainText"
+      }
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:16:35] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.a9896545-c05b-4472-9582-72f8a335270c", 
+    "timestamp": "2017-05-31T20:16:59Z", 
+    "type": "LaunchRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": true, 
+    "sessionId": "amzn1.echo-api.session.6dd88234-eabe-44dd-82de-ac7d9ff37dbb", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:root:New session started
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Welcome to Alexa-Watson Integration Project  How may i help you?", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:17:00] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "ColorIntent", 
+      "slots": {
+        "color": {
+          "confirmationStatus": "NONE", 
+          "name": "color", 
+          "value": "a low"
+        }
+      }
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.9cf703dc-bb46-4414-8e0b-1c7b8473eb37", 
+    "timestamp": "2017-05-31T20:17:19Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": false, 
+    "sessionId": "amzn1.echo-api.session.6dd88234-eabe-44dd-82de-ac7d9ff37dbb", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Thank you  Your favorite color is now noted by watson as a low", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": true
+  }, 
+  "sessionAttributes": {
+    "favcolor": "a low"
+  }, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:17:20] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.056876aa-5e6c-4108-8bdc-acd83ecbaaaf", 
+    "timestamp": "2017-05-31T20:18:05Z", 
+    "type": "LaunchRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": true, 
+    "sessionId": "amzn1.echo-api.session.98e368ef-f634-4792-82b1-3f4aec0d59db", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:root:New session started
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Welcome to Alexa-Watson Integration Project  How may i help you?", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:18:06] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "ColorIntent", 
+      "slots": {
+        "color": {
+          "confirmationStatus": "NONE", 
+          "name": "color", 
+          "value": "green"
+        }
+      }
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.ab6b2c6d-4984-4097-8380-5dbed5677653", 
+    "timestamp": "2017-05-31T20:18:19Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": false, 
+    "sessionId": "amzn1.echo-api.session.98e368ef-f634-4792-82b1-3f4aec0d59db", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Thank you  Your favorite color is now noted by watson as green", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": true
+  }, 
+  "sessionAttributes": {
+    "favcolor": "green"
+  }, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:18:20] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.c60ceca9-4b3e-4454-b6c3-c33f5d8c5b78", 
+    "timestamp": "2017-05-31T20:22:59Z", 
+    "type": "LaunchRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": true, 
+    "sessionId": "amzn1.echo-api.session.d930ca74-1ca2-45f8-932e-22c93d5aefe0", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:root:New session started
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Welcome to Alexa-Watson Integration Project  How may i help you?", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:22:59] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "ColorIntent", 
+      "slots": {
+        "color": {
+          "confirmationStatus": "NONE", 
+          "name": "color", 
+          "value": "green"
+        }
+      }
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.59e0f7fc-1325-4b15-998f-328ebcaa0eea", 
+    "timestamp": "2017-05-31T20:23:10Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": false, 
+    "sessionId": "amzn1.echo-api.session.d930ca74-1ca2-45f8-932e-22c93d5aefe0", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Thank you  Your favorite color is now noted by watson as green", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": true
+  }, 
+  "sessionAttributes": {
+    "favcolor": "green"
+  }, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:23:10] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "HelloIntent"
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.9120056d-7650-4e78-896b-71b02bdf4840", 
+    "timestamp": "2017-05-31T20:25:37Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": true, 
+    "sessionId": "amzn1.echo-api.session.716155fd-1116-455b-b7d0-6b65f62e95fb", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:root:New session started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "[\"Hello.How was your day ?\"]", 
+      "type": "PlainText"
+    }, 
+    "reprompt": {
+      "outputSpeech": {
+        "text": "Sorry Shiva I didn't understand what you said", 
+        "type": "PlainText"
+      }
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:25:38] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "HelloIntent"
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.4be2f18c-16c2-4307-ad23-a77468545d1e", 
+    "timestamp": "2017-05-31T20:25:51Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": false, 
+    "sessionId": "amzn1.echo-api.session.716155fd-1116-455b-b7d0-6b65f62e95fb", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): gateway.watsonplatform.net
+DEBUG:urllib3.connectionpool:https://gateway.watsonplatform.net:443 "POST /conversation/api/v1/workspaces/7f749a89-5fa8-4893-b6a1-b14abc718c8a/message?version=2016-09-20 HTTP/1.1" 200 None
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "[\"Hello.How was your day ?\"]", 
+      "type": "PlainText"
+    }, 
+    "reprompt": {
+      "outputSpeech": {
+        "text": "Sorry Shiva I didn't understand what you said", 
+        "type": "PlainText"
+      }
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:25:52] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "ColorIntent", 
+      "slots": {
+        "color": {
+          "confirmationStatus": "NONE", 
+          "name": "color", 
+          "value": "what's in what"
+        }
+      }
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.739986c9-93bf-4348-b3f0-bbffbe8137e9", 
+    "timestamp": "2017-05-31T20:26:02Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": false, 
+    "sessionId": "amzn1.echo-api.session.716155fd-1116-455b-b7d0-6b65f62e95fb", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Thank you  Your favorite color is now noted by watson as what's in what", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": true
+  }, 
+  "sessionAttributes": {
+    "favcolor": "what's in what"
+  }, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:26:02] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.ee4c68d9-19e3-4159-bf7e-ab2ef589d091", 
+    "timestamp": "2017-05-31T20:26:29Z", 
+    "type": "LaunchRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": true, 
+    "sessionId": "amzn1.echo-api.session.9f59a788-c80d-4c27-bcd7-e1bf2f0bf1fd", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:root:New session started
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Welcome to Alexa-Watson Integration Project  How may i help you?", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:26:30] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "ColorIntent", 
+      "slots": {
+        "color": {
+          "confirmationStatus": "NONE", 
+          "name": "color", 
+          "value": "the orange"
+        }
+      }
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.bb09868e-96be-4015-b1cb-61c88fb84e38", 
+    "timestamp": "2017-05-31T20:26:45Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": false, 
+    "sessionId": "amzn1.echo-api.session.9f59a788-c80d-4c27-bcd7-e1bf2f0bf1fd", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Thank you  Your favorite color is now noted by watson as the orange", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": true
+  }, 
+  "sessionAttributes": {
+    "favcolor": "the orange"
+  }, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:26:46] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.a6886a01-df1e-4fa8-af49-389356d39308", 
+    "timestamp": "2017-05-31T20:27:41Z", 
+    "type": "LaunchRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": true, 
+    "sessionId": "amzn1.echo-api.session.8acc4d8d-bf4d-4f26-884f-6d0323643f91", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:root:New session started
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Welcome to Alexa-Watson Integration Project  How may i help you?", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": false
+  }, 
+  "sessionAttributes": {}, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:27:42] "POST / HTTP/1.1" 200 -
+DEBUG:flask_ask:{
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    }, 
+    "System": {
+      "apiEndpoint": "https://api.amazonalexa.com", 
+      "application": {
+        "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+      }, 
+      "device": {
+        "deviceId": "amzn1.ask.device.AGLFZDI5TTPNJKCW5BBEPU5CGY6FD7A4FXYKVC3XBFKEUPFKGZ2OCAP27O2O27A7QYMWKQNFZIG65H36LH3BYY6VWDUSUOVZ7TPQN4FMFGB4DPAIC3D4T66U233O5GT7BU525XS34RRSGTSLWMIO6A2F7CWA", 
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }, 
+      "user": {
+        "permissions": {}, 
+        "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+      }
+    }
+  }, 
+  "request": {
+    "intent": {
+      "confirmationStatus": "NONE", 
+      "name": "ColorIntent", 
+      "slots": {
+        "color": {
+          "confirmationStatus": "NONE", 
+          "name": "color", 
+          "value": "the black"
+        }
+      }
+    }, 
+    "locale": "en-US", 
+    "requestId": "amzn1.echo-api.request.11622b2b-0d67-4b36-b916-9fa3f85635e9", 
+    "timestamp": "2017-05-31T20:27:57Z", 
+    "type": "IntentRequest"
+  }, 
+  "session": {
+    "application": {
+      "applicationId": "amzn1.ask.skill.a03350b3-7604-44d1-b607-915bcb2e48c4"
+    }, 
+    "new": false, 
+    "sessionId": "amzn1.echo-api.session.8acc4d8d-bf4d-4f26-884f-6d0323643f91", 
+    "user": {
+      "permissions": {}, 
+      "userId": "amzn1.ask.account.AEVLGQKT2JVO7DIUDRYFTIG4ORTPWLCMT6O5OEM3PUGX6T5CUKWECAB4VSVXAP2ZHAQPOQTZVSALAUVBVHC2VU4NL23BGOQS2HOX6CUDVNKWHBU7TLGWC6SZ2HCQQNMVROV64TEIGXBM7LLSIPFG7ARPTMALU22KYYSRL5ATAC3FB7CJLF6SNGYILJNM2D4FTALD4NXVYHPKT2I"
+    }
+  }, 
+  "version": "1.0"
+}
+DEBUG:flask_ask:{
+  "playerActivity": "IDLE"
+}
+DEBUG:flask_ask:{
+  "response": {
+    "outputSpeech": {
+      "text": "Thank you  Your favorite color is now noted by watson as the black", 
+      "type": "PlainText"
+    }, 
+    "shouldEndSession": true
+  }, 
+  "sessionAttributes": {
+    "favcolor": "the black"
+  }, 
+  "version": "1.0"
+}
+INFO:werkzeug:127.0.0.1 - - [31/May/2017 13:27:57] "POST / HTTP/1.1" 200 -
