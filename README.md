@@ -20,7 +20,7 @@ Step2:
 > configure watson configuration in ask-watson.py. run ask-watson.py
 
 Step3:
-> tunnel http request as https using ngrok
+> tunnel localhost http request as https using ngrok
 
 Step4:
 > Add created skill in Alexa Skill Kit in amazons's developer portal as an HTTPS endpoint.
